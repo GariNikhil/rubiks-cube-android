@@ -1,0 +1,14 @@
+RubiksCubeAndroid/
+├── app/
+│   ├── src/
+│   │   ├── main/
+│   │   │   ├── java/
+│   │   │   │   └── com/example/rubikscube/  # Main code
+│   │   │   ├── res/
+│   │   │   │   ├── drawable/     # App icons and game textures
+│   │   │   │   ├── layout/       # XML layouts
+│   │   │   │   └── values/       # Strings, colors, styles
+│   │   │   └── AndroidManifest.xml
+│   ├── build.gradle
+├── build.gradle
+├── settings.gradle
