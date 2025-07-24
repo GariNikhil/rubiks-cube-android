@@ -1,2 +1,2 @@
-# gari-
-GARI
+.gitignore
+Android 12
